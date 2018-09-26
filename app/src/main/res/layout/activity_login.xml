@@ -21,7 +21,7 @@
         />
 
     <EditText
-        android:id="@+id/user_email"
+        android:id="@+id/user_name"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:hint="Digite o seu nome aqui"
@@ -38,7 +38,7 @@
         android:hint="Digite o sua senha aqui"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="@id/user_email"
+        app:layout_constraintTop_toTopOf="@id/user_name"
         app:layout_constraintBottom_toBottomOf="parent"
         />
 
